@@ -1,14 +1,15 @@
 - 👋 Hi there , I’m @Neitikjangra
-  **Web Developer | Open-Source Enthusiast**
-  I specialize in creating stunning , user-friendly web application
-- 👀 I’m interested in to build and working with them to gain more experience and skills
+  🌐 **Web Developer | Open-Source Enthusiast**
+ 📓 I specialize in creating stunning , user-friendly web application
+- 👀 "Dedicated to creating innovative web solutions using modern technologies."
+
 - 🌱 I’m currently learning as working  in various projects 
-- Passionate about  Artificial Intelligence & machine learning,Robotics and Open source.
+-  🪄 Passionate about  Artificial Intelligence & machine learning,Robotics and Open source.
 - ** Tech Stack **
   
-  Progrmming Languages : Python, HTML AND CSS, Javascript, C++,Reactjs.<br>
-    Database : MYSQL, NOSQL, MongoDB <br>
-    Tool : Git 
+  💻 Progrmming Languages : Python, HTML AND CSS, Javascript, C++,Reactjs.<br>
+   🗄 Database : MYSQL, NOSQL, MongoDB <br>
+   🚀 Tool : Git 
   
 - 📫 How to reach me: <br>
      E-mail : neitikjangra@gmail.com <br>
