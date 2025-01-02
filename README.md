@@ -1,5 +1,5 @@
-- 👋 Hi there , I’m @Neitikjangra
-  🌐 **Web Developer | Open-Source Enthusiast**
+- 👋 Hi there , I’m @Neitikjangra <br>
+  🌐 **Web Developer | Open-Source Enthusiast** <br>
  📓 I specialize in creating stunning , user-friendly web application
 - 👀 "Dedicated to creating innovative web solutions using modern technologies."
 
