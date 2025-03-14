@@ -1,6 +1,6 @@
 - 👋 Hi there , I’m @Neitikjangra <br>
   About :
-💼 Passionate and dedicated freelance programmer with extensive expertise in machine learning, software development, web development, web design, and database management. Proficient in Python, MySQL, HTML, CSS, Linux, PHP, JavaScript, and C/C++. Skilled in connecting MySQL with Python and developing AI and machine learning projects. Adept at delivering high-quality coding solutions and continuously learning new technologies to stay ahead in the industry. Beyond coding, I have a keen interest in football and aspire to integrate my sports enthusiasm into my professional journey.
+💼 Passionate and dedicated freelance programmer and AI developer with extensive expertise in machine learning, software development, web development, web design, and database management. Proficient in Python, MySQL, HTML, CSS, Linux, PHP, JavaScript, and C/C++. Skilled in connecting MySQL with Python and developing AI and machine learning projects. Adept at delivering high-quality coding solutions and continuously learning new technologies to stay ahead in the industry. Beyond coding, I have a keen interest in football and aspire to integrate my sports enthusiasm into my professional journey.
 
 Skills :
 🧠 Machine Learning: AI generator and developments, machine learning algorithms, model training, and deployment.
@@ -40,9 +40,10 @@ Interests :
 
 ⚽ Football: Passionate about football and actively involved in local leagues and tournaments. Enjoy analyzing games, strategies, and player performances.
   
-- 📫 How to reach me: <br>
-     E-mail : neitikjangra@gmail.com <br>
-     linkedin: https://www.linkedin.com/in/neitik-jangid-0397b5280
+- 📫 Contact Me :
+- You can reach me via :
+     E-mail  📧: neitikjangra@gmail.com 
+     linkedin 📇: https://www.linkedin.com/in/neitik-jangid-0397b5280
 
  
 
