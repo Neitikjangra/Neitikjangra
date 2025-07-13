@@ -1,4 +1,6 @@
  Hello , I’m @Neitikjangra <br>
+
+<br> 
 About : <br>
 
 💼  I am Passionate and dedicated freelance programmer and AI developer with extensive expertise in machine learning, software development, web development, web design, and database management. Proficient in Python, MySQL, HTML, CSS, Java, node.js, react.js,JavaScript, and C/C++. Skilled in connecting MySQL with Python and developing AI and machine learning projects. Adept at delivering high-quality coding solutions and continuously learning new technologies to stay ahead in the industry. Beyond coding, I have a keen interest in football and aspire to integrate my sports enthusiasm into my professional journey.
