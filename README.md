@@ -1,6 +1,6 @@
 - 👋 Hi there , I’m @Neitikjangra <br>
   About : <br>
-💼 Passionate and dedicated freelance programmer and AI developer with extensive expertise in machine learning, software development, web development, web design, and database management. Proficient in Python, MySQL, HTML, CSS, Linux, PHP, JavaScript, and C/C++. Skilled in connecting MySQL with Python and developing AI and machine learning projects. Adept at delivering high-quality coding solutions and continuously learning new technologies to stay ahead in the industry. Beyond coding, I have a keen interest in football and aspire to integrate my sports enthusiasm into my professional journey.
+💼 Passionate and dedicated freelance programmer and AI developer with extensive expertise in machine learning, software development, web development, web design, and database management. Proficient in Python, MySQL, HTML, CSS, Java, node.js, react.js,JavaScript, and C/C++. Skilled in connecting MySQL with Python and developing AI and machine learning projects. Adept at delivering high-quality coding solutions and continuously learning new technologies to stay ahead in the industry. Beyond coding, I have a keen interest in football and aspire to integrate my sports enthusiasm into my professional journey.
 
 Skills : <br>
 🧠 Machine Learning: AI generator and developments, machine learning algorithms, model training, and deployment.
@@ -9,18 +9,12 @@ Skills : <br>
 
 🌐 Web Development: Front-end and back-end development, HTML, CSS, JavaScript, PHP, responsive design, and UX/UI principles.
 
-🎨 Web Design: Website layout and design, user experience design, graphic design tools (Adobe XD, Figma).
-
 💾 Database Management: MySQL database design, administration, and optimization, database connectivity with Python.
 
 Projects : <br>
 🤖 AI Chatbot: Developed an AI-driven chatbot for customer support using Python and machine learning algorithms.
 
 🌟 Dynamic Website: Created a website for a local business using HTML, CSS, JavaScript, integrated with MySQL.
-
-🛒 Online Store: Implemented a PHP-based web application for an online store, ensuring smooth UX and database connectivity.
-
-🔍 Data Processing App: Designed and developed a C/C++ application for efficient data processing and analysis.
 
 📊 Customer Behavior Model: Developed a machine learning model to predict customer behavior and enhance marketing strategies.
 
