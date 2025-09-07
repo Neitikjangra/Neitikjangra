@@ -25,23 +25,23 @@ Python ⚡ Java ⚡ C/C++ ⚡ JavaScript ⚡ Node.js ⚡ React.js ⚡ MySQL ⚡ 
 🌍 Featured Creations
 🧑‍⚖️ Lawgic
 
-💡 AI compliance agent that interprets regulations, tracks deadlines, and avoids expensive mistakes.
+💡 AI compliance agent that interprets regulations, tracks deadlines, and avoids expensive mistakes.<br>
 ⚡ Impact: 80% error reduction | cost-saving | adaptable for startups.
 
 🚚  Smart Fleet
 
-💡 Predictive analytics + GPS optimization for efficient fleet management.
+💡 Predictive analytics + GPS optimization for efficient fleet management.<br>
 ⚡ Impact: 30–50% idle time savings | enhanced profitability | wiser decisions.
 
  🛰 Navis-X
 
-💡 YOLOv8 + acoustic intelligence for real-time, multi-modal surveillance.
+💡 YOLOv8 + acoustic intelligence for real-time, multi-modal surveillance.<br>
 ⚡ Impact: Faster detection | fewer false alarms | greater safety.
 
 🎯 Core Strengths
 
 🧩 Problem Solver — converting messy problems into clever systems.
-🎨 Creative Thinker — mixing design flair with engineering sense.
+🎨 Creative Thinker — mixing design flair with engineering sense.<br>
 📈 Strategic Leader — guiding projects from vision → implementation → effect.
 
 🧠 My Philosophy
@@ -58,7 +58,7 @@ Code is similar to football — speed is important, but strategy gets the win.
  
  
 📫 Contact Me :
- You can reach me via : <br>
+ -- You can reach me via : <br>
      E-mail  📧: neitikjangra@gmail.com  <br>
      linkedin 📇: https://www.linkedin.com/in/neitik-jangid-0397b5280 
  
