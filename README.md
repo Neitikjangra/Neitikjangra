@@ -1,7 +1,6 @@
 ![Intro](./assets/hero.svg?v=2)
 
-### Engineering Intelligence. Building Human-Centered AI.
-I transform complex ideas into intelligent products through AI engineering, full-stack development, and experimental innovation.
+
 
 ![About](./assets/about-life.svg?v=2)
 
