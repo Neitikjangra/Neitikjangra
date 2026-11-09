@@ -15,7 +15,7 @@
 </p>
 
 <details>
-<summary><b>Full project details</b></summary>
+
 
 | Project | What it does | Built with |
 |---|---|---|
